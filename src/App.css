@@ -1,5 +1,5 @@
 .App {
-  background-image: url('https://images.pexels.com/photos/4197561/pexels-photo-4197561.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+  background-image: url('./background.jpg');
   min-height: 100%;
   background-size: cover;
   background-position: center;
